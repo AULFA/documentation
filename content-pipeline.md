@@ -49,7 +49,7 @@ when new files are detected, generates a new repository file for use
 by the [updater](https://github.com/AULFA/updater) application.
 
 #### K. Opdsget fetches offline feeds
-#### L. Opdsget generated offline feed archive
+#### L. Opdsget generates offline feed archive
 
 An [opdsget](https://github.com/AULFA/opdsget/) service is configured
 on our `builds.lfa.one` server that periodically takes an offline snapshot
