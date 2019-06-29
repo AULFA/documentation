@@ -84,7 +84,7 @@ repository files to devices running the `updater` application.
 
 A human can manually download APK and repository files in order to
 place them onto a USB drive for updating hotspots. This step would
-typically be performed in locations that have usable internet connections,
+typically be performed in locations that _do_ have usable internet connections,
 in preparation for delivering the USB drive to locations that _don't_
 have usable connections.
 
