@@ -96,7 +96,7 @@ to the hotspot running in any of our locations (schools).
 #### F. A user inserts a USB drive into a hotspot
 
 The hotspots are configured with a service that detects when a USB
-drive has been inserted, and runs a self-updated procedure that copies
+drive has been inserted, and runs a self-update procedure that copies
 the APK and repository files off the USB drive.
 
 ## Device Installation / Upgrades
